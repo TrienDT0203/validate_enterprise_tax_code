@@ -1,0 +1,8 @@
+# ignore _script/_pycache_
+
+/_script/__pycache__/
+/_dev/*
+
+/data/local_db/*.db
+/data/process/**/*.csv
+/data/process/**/*.xlsx
