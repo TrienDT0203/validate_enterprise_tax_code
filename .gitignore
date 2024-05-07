@@ -6,3 +6,5 @@
 /data/local_db/*.db
 /data/process/**/*.csv
 /data/process/**/*.xlsx
+
+/**/*.env
